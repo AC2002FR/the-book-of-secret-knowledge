@@ -430,6 +430,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="https://wire.com/en/"><b>Wire</b></a> - secure messaging, file sharing, voice calls and video conferences.<br>
 &nbsp;&nbsp; <a href="https://github.com/prof7bit/TorChat"><b>TorChat</b></a> - decentralized anonymous instant messenger on top of Tor Hidden Services.<br>
 &nbsp;&nbsp; <a href="https://matrix.org/"><b>Matrix</b></a> - an open network for secure, decentralized, real-time communication.<br>
+&nbsp;&nbsp; <a href="https://getsession.org/"><b>Session</b></a> - Send Messages, No Metadata.<br>
 </p>
 
 ##### :black_small_square: Text editors
@@ -526,6 +527,7 @@ Only main chapters:
 &nbsp;&nbsp; <a href="http://www.blacklistalert.org/"><b>blacklistalert</b></a> - checks to see if your domain is on a Real Time Spam Blacklist.<br>
 &nbsp;&nbsp; <a href="http://multirbl.valli.org/"><b>MultiRBL</b></a> - complete IP check for sending Mailservers.<br>
 &nbsp;&nbsp; <a href="https://dkimvalidator.com/"><b>DKIM SPF & Spam Assassin Validator</b></a> - checks mail authentication and scores messages with Spam Assassin.<br>
+&nbsp;&nbsp; <a href="https://www.mail-tester.com/?lang=en"><b>Mail Tester</b></a> - Test the Spammyness of your Emails<br>
 </p>
 
 ##### :black_small_square: Encoders/Decoders and Regex testing
@@ -775,7 +777,7 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Labs
 
 <p>
-&nbsp;&nbsp; <a href="https://labs.networkreliability.engineering/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
+&nbsp;&nbsp; <a href="https://nrelabs.io/resources/introduction/"><b>NRE Labs</b></a> - learn automation by doing it. Right now, right here, in your browser.<br>
 </p>
 
 ##### :black_small_square: Other
